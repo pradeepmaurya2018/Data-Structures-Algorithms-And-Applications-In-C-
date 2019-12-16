@@ -6,4 +6,5 @@ int main()
 {
 	cout << "printf" << endl;
 	getchar();
+
 }
